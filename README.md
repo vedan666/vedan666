@@ -9,9 +9,8 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/vedant
 
 ## My favorite tools and technologies ⚙️
 
-Here are some tools and technologies that I have worked with and am interested in:
+Here are tools and technologies that I have worked with and am interested in:
 
-| Icon 1 | Icon 2 | Icon 3 | Icon 4 |
 |---|---|---|---|
 | ![Azure](icons/Azure-Dark.svg) | ![AWS](icons/AWS-Dark.svg) | ![GCP](icons/GCP-Dark.svg) | ![Terraform](icons/Terraform-Dark.svg) |
 | ![Python](icons/Python-Dark.svg) | ![Docker](icons/Docker.svg) | ![Kubernetes](icons/Kubernetes.svg) | ![Nginx](icons/Nginx.svg) |
