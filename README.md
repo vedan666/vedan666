@@ -11,7 +11,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/vedant
 
 Here are tools and technologies that I have worked with and am interested in:
 
-|---|---|---|---|
 | ![Azure](icons/Azure-Dark.svg)  | ![AWS](icons/AWS-Dark.svg)      | ![GCP](icons/GCP-Dark.svg)       | ![Terraform](icons/Terraform-Dark.svg) |
-| ![Python](icons/Python-Dark.svg) | ![Docker](icons/Docker.svg)     | ![Kubernetes](icons/Kubernetes.svg) | ![Nginx](icons/Nginx.svg)        |
-| ![Git](icons/Git.svg)            | ![GitHub](icons/Github-Dark.svg) | ![Prometheus](icons/Prometheus.svg) | ![Grafana](icons/Grafana-Dark.svg) |
+| ![Python](icons/Python-Dark.svg) | ![Docker](icons/Docker.svg)     | ![Kubernetes](icons/Kubernetes.svg) | ![Nginx](icons/Nginx.svg)            |
+| ![Git](icons/Git.svg)            | ![GitHub](icons/Github-Dark.svg) | ![Prometheus](icons/Prometheus.svg) | ![Grafana](icons/Grafana-Dark.svg)   |
+
