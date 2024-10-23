@@ -35,3 +35,5 @@ Here are tools and technologies that I have worked with and am interested in:
 🏆 My Stats:
 
 [![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedan666)](https://github.com/vedan666/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedan666&layout=compact)
