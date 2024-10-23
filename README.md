@@ -15,3 +15,23 @@ Here are tools and technologies that I have worked with and am interested in:
 | ![Python](icons/Python-Dark.svg) | ![Docker](icons/Docker.svg)     | ![Kubernetes](icons/Kubernetes.svg) | ![Nginx](icons/Nginx.svg)            |
 | ![Git](icons/Git.svg)            | ![GitHub](icons/Github-Dark.svg) | ![Prometheus](icons/Prometheus.svg) | ![Grafana](icons/Grafana-Dark.svg)   |
 
+<table>
+  <tr>
+    <td><img src="icons/Azure-Dark.svg" width="50" /></td>
+    <td><img src="icons/AWS-Dark.svg" width="50" /></td>
+    <td><img src="icons/GCP-Dark.svg" width="50" /></td>
+    <td><img src="icons/Terraform-Dark.svg" width="50" /></td>
+  </tr>
+  <tr>
+    <td><img src="icons/Python-Dark.svg" width="50" /></td>
+    <td><img src="icons/Docker.svg" width="50" /></td>
+    <td><img src="icons/Kubernetes.svg" width="50" /></td>
+    <td><img src="icons/Nginx.svg" width="50" /></td>
+  </tr>
+  <tr>
+    <td><img src="icons/Git.svg" width="50" /></td>
+    <td><img src="icons/Github-Dark.svg" width="50" /></td>
+    <td><img src="icons/Prometheus.svg" width="50" /></td>
+    <td><img src="icons/Grafana-Dark.svg" width="50" /></td>
+  </tr>
+</table>
