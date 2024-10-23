@@ -1,5 +1,35 @@
 ![Introduction](./Introduction.gif)
 
+variable "name" {
+  description = "Name of the DevOps Engineer"
+  default     = "Vedant"
+}
+
+variable "focus_areas" {
+  description = "Key focus areas of expertise"
+  default     = "Azure, Terraform, and cloud automation"
+}
+
+variable "introduction" {
+  description = "Personal introduction"
+  default     = "Welcome to my GitHub Page. I'm ${var.name}, a DevOps Engineer particularly focusing on ${var.focus_areas}. I enjoy making complex tech stuff easier, automating processes, and tweaking systems for better performance."
+}
+
+variable "experience" {
+  description = "Summary of professional journey"
+  default     = "In my journey, I’ve had the opportunity to work on large-scale cloud deployments, design resilient systems, and collaborate with cross-functional teams to deliver seamless operations."
+}
+
+variable "connect_link" {
+  description = "LinkedIn connection link"
+  default     = "https://www.linkedin.com/in/vedant-shukla-1a036a314/"
+}
+
+output "github_intro" {
+  value = "${var.introduction}\n\n${var.experience}\n\nThanks for visiting and I'd love to [connect](${var.connect_link})!"
+}
+
+
 Welcome to my GitHub Page.
 I'm Vedant, a DevOps Engineer particularly focusing on Azure, Terraform, and cloud automation. I enjoy making complex tech stuff easier, automating processes, and tweaking systems for better performance
 
