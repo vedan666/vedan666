@@ -31,3 +31,7 @@ Here are tools and technologies that I have worked with and am interested in:
     <td><img src="icons/Grafana-Dark.svg" width="150" /></td>
   </tr>
 </table>
+
+🏆 My Stats:
+
+[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedan666)](https://github.com/vedan666/github-readme-stats)
