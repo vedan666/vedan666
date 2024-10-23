@@ -17,21 +17,21 @@ Here are tools and technologies that I have worked with and am interested in:
 
 <table>
   <tr>
-    <td><img src="icons/Azure-Dark.svg" width="50" /></td>
-    <td><img src="icons/AWS-Dark.svg" width="50" /></td>
-    <td><img src="icons/GCP-Dark.svg" width="50" /></td>
-    <td><img src="icons/Terraform-Dark.svg" width="50" /></td>
+    <td><img src="icons/Azure-Dark.svg" width="25" /></td>
+    <td><img src="icons/AWS-Dark.svg" width="25" /></td>
+    <td><img src="icons/GCP-Dark.svg" width="25" /></td>
+    <td><img src="icons/Terraform-Dark.svg" width="25" /></td>
   </tr>
   <tr>
-    <td><img src="icons/Python-Dark.svg" width="50" /></td>
-    <td><img src="icons/Docker.svg" width="50" /></td>
-    <td><img src="icons/Kubernetes.svg" width="50" /></td>
-    <td><img src="icons/Nginx.svg" width="50" /></td>
+    <td><img src="icons/Python-Dark.svg" width="25" /></td>
+    <td><img src="icons/Docker.svg" width="25" /></td>
+    <td><img src="icons/Kubernetes.svg" width="25" /></td>
+    <td><img src="icons/Nginx.svg" width="25" /></td>
   </tr>
   <tr>
-    <td><img src="icons/Git.svg" width="50" /></td>
-    <td><img src="icons/Github-Dark.svg" width="50" /></td>
-    <td><img src="icons/Prometheus.svg" width="50" /></td>
-    <td><img src="icons/Grafana-Dark.svg" width="50" /></td>
+    <td><img src="icons/Git.svg" width="25" /></td>
+    <td><img src="icons/Github-Dark.svg" width="25" /></td>
+    <td><img src="icons/Prometheus.svg" width="25" /></td>
+    <td><img src="icons/Grafana-Dark.svg" width="25" /></td>
   </tr>
 </table>
