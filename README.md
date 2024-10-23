@@ -1,5 +1,6 @@
 ![Introduction](./Introduction.gif)
 
+```hcl
 variable "name" {
   description = "Name of the DevOps Engineer"
   default     = "Vedant"
