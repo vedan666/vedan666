@@ -29,7 +29,7 @@ variable "connect_link" {
 output "github_intro" {
   value = "${var.introduction}\n\n${var.experience}\n\nThanks for visiting and I'd love to [connect](${var.connect_link})!"
 }
-
+```
 
 Welcome to my GitHub Page.
 I'm Vedant, a DevOps Engineer particularly focusing on Azure, Terraform, and cloud automation. I enjoy making complex tech stuff easier, automating processes, and tweaking systems for better performance
