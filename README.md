@@ -11,15 +11,15 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/vedant
 
 Here are some tools and technologies that I have worked with and am interested in:
 
-- ![Azure](icons\Azure-Dark.svg) Azure
-- ![AWS](icons\AWS-Dark.svg) AWS
-- ![GCP](icons\GCP-Dark.svg) GCP
-- ![Terraform](icons\Terraform-Dark.svg) Terraform
-- ![Python](icons\Python-Dark.svg) Python
-- ![Docker](icons\Docker.svg) Docker
-- ![Kubernetes](icons\Kubernetes.svg) Kubernetes
-- ![Nginx](icons\Nginx.svg) Nginx
-- ![Git](icons\Git.svg) Git
-- ![GitHub](icons\Github-Dark.svg) GitHub
-- ![Prometheus](icons\Prometheus.svg) Prometheus
-- ![Grafana](icons\Grafana-Dark.svg) Grafana
+- ![Azure](icons/Azure-Dark.svg) Azure
+- ![AWS](icons/AWS-Dark.svg) AWS
+- ![GCP](icons/GCP-Dark.svg) GCP
+- ![Terraform](icons/Terraform-Dark.svg) Terraform
+- ![Python](icons/Python-Dark.svg) Python
+- ![Docker](icons/Docker.svg) Docker
+- ![Kubernetes](icons/Kubernetes.svg) Kubernetes
+- ![Nginx](icons/Nginx.svg) Nginx
+- ![Git](icons/Git.svg) Git
+- ![GitHub](icons/Github-Dark.svg) GitHub
+- ![Prometheus](icons/Prometheus.svg) Prometheus
+- ![Grafana](icons/Grafana-Dark.svg) Grafana
