@@ -1,32 +1,26 @@
 ![Introduction](./Introduction.gif)
 
-```hcl
+```yaml
+variables:
+  name: "Vedant"  
+  focus_areas: "Azure, Terraform, Yaml, python and CICD pipelines" 
 
-variable "name" {
-  description = "Name of the DevOps Engineer"
-  default     = "Vedant"
-}
+steps:
+  - task: Bash@3
+    displayName: "Introduction"
+    inputs:
+      targetType: "inline"
+      script: |
+         "Welcome to my GitHub Page."
+         "I'm $(name), a DevOps Engineer particularly focusing on $(focus_areas)."
+         "I enjoy making complex tech stuff easier, automating processes, and tweaking systems for better performance."
 
-variable "focus_areas" {
-  description = "Key focus areas of expertise"
-  default     = "Azure, Terraform, and cloud automation"
-}
-
-resource "intro_group" "introduction" {
-  provisioner "local-exec" {
-    command = <<-EOT
-      echo -e "Welcome to my GitHub Page.
-      \n
-      I'm ${var.name}, a DevOps Engineer particularly focusing on ${var.focus_areas}.
-      \n 
-      I enjoy making complex tech stuff easier, automating processes, and tweaking systems for better performance."
-    EOT
-  }
-}
-
-output "github_intro" {
-  value = "Introduction has been printed to the console."
-}
+  - task: PowerShell@2
+    displayName: "Output"
+    inputs:
+      targetType: "inline"
+      script: |
+        "Introduction has been printed to the console."
 
 ```
 
