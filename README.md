@@ -2,28 +2,25 @@
 
 ```yaml
 variables:
-  name:
-    description: "Name of the DevOps Engineer"
-    default: "Vedant"
-  focus_areas:
-    description: "Key focus areas of expertise"
-    default: "Azure, Terraform, Yaml, and CICD pipelines"
+  name: "Vedant"  # Name of the DevOps Engineer
+  focus_areas: "Azure, Terraform, Yaml, and CICD pipelines"  # Key focus areas of expertise
 
-resources:
-  - intro_group:
-      name: "introduction"
-      provisioner:
-        local-exec:
-          command: |
-            echo -e "Welcome to my GitHub Page.
-            \n
-            I'm ${name}, a DevOps Engineer particularly focusing on ${focus_areas}.
-            \n
-            I enjoy making complex tech stuff easier, automating processes, and tweaking systems for better performance."
+steps:
+  - task: Bash@3
+    displayName: "Introduce the DevOps Engineer"
+    inputs:
+      targetType: "inline"
+      script: |
+        echo -e "Welcome to my GitHub Page.\n"
+        echo -e "I'm $(name), a DevOps Engineer particularly focusing on $(focus_areas).\n"
+        echo -e "I enjoy making complex tech stuff easier, automating processes, and tweaking systems for better performance."
 
-outputs:
-  github_intro:
-    value: "Introduction has been printed to the console."
+  - task: PowerShell@2
+    displayName: "Output Message"
+    inputs:
+      targetType: "inline"
+      script: |
+        Write-Output "Introduction has been printed to the console."
 
 ```
 
