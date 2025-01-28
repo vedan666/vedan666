@@ -2,25 +2,25 @@
 
 ```yaml
 variables:
-  name: "Vedant"  # Name of the DevOps Engineer
-  focus_areas: "Azure, Terraform, Yaml, and CICD pipelines"  # Key focus areas of expertise
+  name: "Vedant"  
+  focus_areas: "Azure, Terraform, Yaml, python and CICD pipelines" 
 
 steps:
   - task: Bash@3
-    displayName: "Introduce the DevOps Engineer"
+    displayName: "Introduction"
     inputs:
       targetType: "inline"
       script: |
-        echo -e "Welcome to my GitHub Page.\n"
-        echo -e "I'm $(name), a DevOps Engineer particularly focusing on $(focus_areas).\n"
-        echo -e "I enjoy making complex tech stuff easier, automating processes, and tweaking systems for better performance."
+         "Welcome to my GitHub Page."
+         "I'm $(name), a DevOps Engineer particularly focusing on $(focus_areas)."
+         "I enjoy making complex tech stuff easier, automating processes, and tweaking systems for better performance."
 
   - task: PowerShell@2
-    displayName: "Output Message"
+    displayName: "Output"
     inputs:
       targetType: "inline"
       script: |
-        Write-Output "Introduction has been printed to the console."
+        "Introduction has been printed to the console."
 
 ```
 
