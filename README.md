@@ -86,17 +86,3 @@ Here are tools and technologies that I have worked with and am interested in:
 </table>
 
 
-
-## 🏆 My Stats:
-
-<div style="display: flex; justify-content: space-evenly;
-;">
-
-  <a href="https://github.com/vedan666/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=vedan666" alt="Vedant's GitHub stats" />
-  </a>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedan666&layout=compact" alt="Top Languages" />
-
-</div>
-
